@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/behiyeerdemir/static/css/main.bf872c99.css",
-    "main.js": "/behiyeerdemir/static/js/main.5c4fae21.js",
+    "main.css": "/behiyeerdemir/static/css/main.3124f562.css",
+    "main.js": "/behiyeerdemir/static/js/main.bf95968d.js",
     "static/js/787.963a02f4.chunk.js": "/behiyeerdemir/static/js/787.963a02f4.chunk.js",
     "static/media/13.jpg": "/behiyeerdemir/static/media/13.acc02178875a23245463.jpg",
     "static/media/12.jpg": "/behiyeerdemir/static/media/12.54f7bf0327c1141be660.jpg",
@@ -35,13 +35,13 @@
     "static/media/35.png": "/behiyeerdemir/static/media/35.2193d90a27fbdb3c3480.png",
     "static/media/33.jpg": "/behiyeerdemir/static/media/33.79d277b81f9afa9ab6fe.jpg",
     "static/media/38.png": "/behiyeerdemir/static/media/38.70fa57c11f2a9dbdd19e.png",
+    "static/media/mail.gif": "/behiyeerdemir/static/media/mail.b53d062339cf1f133763.gif",
     "static/media/35.jpg": "/behiyeerdemir/static/media/35.a410f59a25936c6d9548.jpg",
     "static/media/40.jpg": "/behiyeerdemir/static/media/40.43b1031b89993d67f67b.jpg",
     "static/media/25.jpg": "/behiyeerdemir/static/media/25.29ce75305db31ecbebc6.jpg",
     "static/media/26.jpg": "/behiyeerdemir/static/media/26.822dcdb17710e935cf9b.jpg",
     "static/media/29.jpg": "/behiyeerdemir/static/media/29.81d00ac30d98ff777791.jpg",
     "static/media/mesh.jpg": "/behiyeerdemir/static/media/mesh.5e7464aeeb9d75a666d7.jpg",
-    "static/media/antenna1.JPG": "/behiyeerdemir/static/media/antenna1.9086436f7217bbb0a17e.JPG",
     "static/media/36.jpg": "/behiyeerdemir/static/media/36.801e8ce9d81c003bb50b.jpg",
     "static/media/datasetofinbetween_viki.jpg": "/behiyeerdemir/static/media/datasetofinbetween_viki.fcab1dbf4cb5f5f43bdd.jpg",
     "static/media/50.jpg": "/behiyeerdemir/static/media/50.c020dd331d6348ae3b9e.jpg",
@@ -79,14 +79,13 @@
     "static/media/42.jpg": "/behiyeerdemir/static/media/42.546f8e8436c0a03d2011.jpg",
     "static/media/41.jpg": "/behiyeerdemir/static/media/41.75471fd457745af103f7.jpg",
     "static/media/39.jpg": "/behiyeerdemir/static/media/39.869f4605a681894316d1.jpg",
-    "static/media/green.jpg": "/behiyeerdemir/static/media/green.7ad1534197c9961cc7f2.jpg",
     "index.html": "/behiyeerdemir/index.html",
-    "main.bf872c99.css.map": "/behiyeerdemir/static/css/main.bf872c99.css.map",
-    "main.5c4fae21.js.map": "/behiyeerdemir/static/js/main.5c4fae21.js.map",
+    "main.3124f562.css.map": "/behiyeerdemir/static/css/main.3124f562.css.map",
+    "main.bf95968d.js.map": "/behiyeerdemir/static/js/main.bf95968d.js.map",
     "787.963a02f4.chunk.js.map": "/behiyeerdemir/static/js/787.963a02f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf872c99.css",
-    "static/js/main.5c4fae21.js"
+    "static/css/main.3124f562.css",
+    "static/js/main.bf95968d.js"
   ]
 }

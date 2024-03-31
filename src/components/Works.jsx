@@ -6,6 +6,7 @@ import mesh from '../media/mess/mesh.jpg';
 import datasetinbetween from '../media/dataset-of-inbetween/datasetinbetween.jpg'
 import emphatie from '../media/emphatie-project/9.jpg'
 import pixelwise from '../media/pixel-wise-forgetting/25.jpg'
+import washingThemes from '../media/washing-images/DALL·E 2024-03-27 22.42.18 - Create an image of a generic glass soda bottle placed in a lush green meadow, implying a natural and eco-friendly theme. The bottle should have no bra.png'
 const Works = () => {
   const works = [
 
@@ -18,39 +19,47 @@ const Works = () => {
     },
     {
       id: 2,
+      name: 'Washing Themes',
+      image: washingThemes,
+      link: '/works/washing-themes',
+      tag: 'Net',
+    },
+    {
+      id: 3,
       name: 'Circuitous Bodies',
       image: circuitousBodiesImage,
       link: '/works/circuitous-bodies',
       tag: 'Sound Performance',
     },
     {
-      id: 3,
+      id: 4,
       name: 'Emphatie Project',
       image: emphatie,
       link: '/works/emphatie',
       tag: 'Multimedia Performance',
     },
     {
-      id: 4,
+      id: 5,
       name: 'A Mesh/Mess Of Beings',
       image: mesh,
       link: '/works/mess-mesh',
       tag: 'Installation',
     },
     {
-      id: 5,
+      id: 6,
       name: 'Dataset of Inbetween',
       image: datasetinbetween,
       link: '/works/dataset-in-between',
       tag: 'Media Installation',
     },
     {
-      id: 6,
+      id: 7,
       name: 'Pixelwise Forgetting',
       image: pixelwise,
       link: '/works/pixelwise-forgetting',
       tag: 'Net',
     },
+   
     
   ];
   

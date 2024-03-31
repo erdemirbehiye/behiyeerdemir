@@ -11,12 +11,12 @@ import Notes from "./components/Notes.jsx";
 import Emphatie from "./components/Emphatie.jsx";
 import DatasetInBetween from "./components/DatasetInBetween.jsx";
 import PixelWiseForgetting from "./components/PixelWiseForgetting.jsx";
-
+import WashingThemes from "./components/WashingThemes.jsx";
 const App = () => {
   const containerStyle = {
-    backgroundColor: "black",
+    backgroundColor: "white",
     minHeight: "100vh",
-    color: "white",
+    color: "black",
     margin: 0,
     boxSizing: "border-box",
     overflowY: "hidden",
@@ -48,6 +48,7 @@ const App = () => {
                 path="/works/pixelwise-forgetting"
                 element={<PixelWiseForgetting />}
               />
+              <Route path="/works/washing-themes" element={<WashingThemes />} />
 
               <Route path="notes" element={<Notes />} />
               <Route path="works" element={<Works />} />

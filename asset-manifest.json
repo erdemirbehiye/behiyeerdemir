@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/behiyeerdemir/static/css/main.bf872c99.css",
-    "main.js": "/behiyeerdemir/static/js/main.5c4fae21.js",
+    "main.css": "/behiyeerdemir/static/css/main.fbcec0bc.css",
+    "main.js": "/behiyeerdemir/static/js/main.fae6eb6c.js",
     "static/js/787.963a02f4.chunk.js": "/behiyeerdemir/static/js/787.963a02f4.chunk.js",
     "static/media/13.jpg": "/behiyeerdemir/static/media/13.acc02178875a23245463.jpg",
     "static/media/12.jpg": "/behiyeerdemir/static/media/12.54f7bf0327c1141be660.jpg",
@@ -24,6 +24,7 @@
     "static/media/06.jpg": "/behiyeerdemir/static/media/06.155bd288bdf5964c6b8f.jpg",
     "static/media/20.jpg": "/behiyeerdemir/static/media/20.27fed7dd7fbe9abb37d1.jpg",
     "static/media/veronica.jpg": "/behiyeerdemir/static/media/veronica.d94ecc5f938681149031.jpg",
+    "static/media/DALL·E 2024-03-31 20.53.23 - Create an image of an advertisement for an environmentally conscious airline service. The ad features a sleek, modern airplane flying over a pristine .png": "/behiyeerdemir/static/media/DALL·E 2024-03-31 20.53.23 - Create an image of an advertisement for an environmentally conscious airline service. The ad features a sleek, modern airplane flying over a pristine .872040a3b944a2072030.png",
     "static/media/47.jpg": "/behiyeerdemir/static/media/47.5a2e37e2099f3c1712f2.jpg",
     "static/media/38.jpg": "/behiyeerdemir/static/media/38.e537b0c774ad6a5b947a.jpg",
     "static/media/27.jpg": "/behiyeerdemir/static/media/27.fd37505030df166aa8da.jpg",
@@ -31,17 +32,18 @@
     "static/media/3.png": "/behiyeerdemir/static/media/3.fd6d067ac281eaf92df7.png",
     "static/media/22.jpg": "/behiyeerdemir/static/media/22.38f2ed06bd2e3261d73c.jpg",
     "static/media/43.jpg": "/behiyeerdemir/static/media/43.679f047a15002f4ec4ad.jpg",
+    "static/media/DALL·E 2024-03-31 20.18.15 - Create an image of a vibrant pink garment with a green eco-friendly clothing tag attached. The tag is clearly visible and includes sustainable fashion.png": "/behiyeerdemir/static/media/DALL·E 2024-03-31 20.18.15 - Create an image of a vibrant pink garment with a green eco-friendly clothing tag attached. The tag is clearly visible and includes sustainable fashion.3ffcac67f082dc57b041.png",
     "static/media/28.jpg": "/behiyeerdemir/static/media/28.6e76fefe750acee5b667.jpg",
     "static/media/35.png": "/behiyeerdemir/static/media/35.2193d90a27fbdb3c3480.png",
     "static/media/33.jpg": "/behiyeerdemir/static/media/33.79d277b81f9afa9ab6fe.jpg",
     "static/media/38.png": "/behiyeerdemir/static/media/38.70fa57c11f2a9dbdd19e.png",
+    "static/media/mail.gif": "/behiyeerdemir/static/media/mail.b53d062339cf1f133763.gif",
     "static/media/35.jpg": "/behiyeerdemir/static/media/35.a410f59a25936c6d9548.jpg",
     "static/media/40.jpg": "/behiyeerdemir/static/media/40.43b1031b89993d67f67b.jpg",
     "static/media/25.jpg": "/behiyeerdemir/static/media/25.29ce75305db31ecbebc6.jpg",
     "static/media/26.jpg": "/behiyeerdemir/static/media/26.822dcdb17710e935cf9b.jpg",
     "static/media/29.jpg": "/behiyeerdemir/static/media/29.81d00ac30d98ff777791.jpg",
     "static/media/mesh.jpg": "/behiyeerdemir/static/media/mesh.5e7464aeeb9d75a666d7.jpg",
-    "static/media/antenna1.JPG": "/behiyeerdemir/static/media/antenna1.9086436f7217bbb0a17e.JPG",
     "static/media/36.jpg": "/behiyeerdemir/static/media/36.801e8ce9d81c003bb50b.jpg",
     "static/media/datasetofinbetween_viki.jpg": "/behiyeerdemir/static/media/datasetofinbetween_viki.fcab1dbf4cb5f5f43bdd.jpg",
     "static/media/50.jpg": "/behiyeerdemir/static/media/50.c020dd331d6348ae3b9e.jpg",
@@ -70,6 +72,7 @@
     "static/media/datasetinbetween.jpg": "/behiyeerdemir/static/media/datasetinbetween.57de82d3db4fa42f4794.jpg",
     "static/media/7.png": "/behiyeerdemir/static/media/7.3b20a2e13c8328836610.png",
     "static/media/36.png": "/behiyeerdemir/static/media/36.505a1045e604863a90dc.png",
+    "static/media/DALL·E 2024-03-27 22.42.18 - Create an image of a generic glass soda bottle placed in a lush green meadow, implying a natural and eco-friendly theme. The bottle should have no bra.png": "/behiyeerdemir/static/media/DALL·E 2024-03-27 22.42.18 - Create an image of a generic glass soda bottle placed in a lush green meadow, implying a natural and eco-friendly theme. The bottle should have no bra.5f8d5b5429708d08e6ed.png",
     "static/media/44.jpg": "/behiyeerdemir/static/media/44.e6ebee0bf4af980ae2db.jpg",
     "static/media/48.jpg": "/behiyeerdemir/static/media/48.7b91c6575fb86f1b691a.jpg",
     "static/media/45.jpg": "/behiyeerdemir/static/media/45.c42a54d5ce10fc15aa95.jpg",
@@ -79,14 +82,13 @@
     "static/media/42.jpg": "/behiyeerdemir/static/media/42.546f8e8436c0a03d2011.jpg",
     "static/media/41.jpg": "/behiyeerdemir/static/media/41.75471fd457745af103f7.jpg",
     "static/media/39.jpg": "/behiyeerdemir/static/media/39.869f4605a681894316d1.jpg",
-    "static/media/green.jpg": "/behiyeerdemir/static/media/green.7ad1534197c9961cc7f2.jpg",
     "index.html": "/behiyeerdemir/index.html",
-    "main.bf872c99.css.map": "/behiyeerdemir/static/css/main.bf872c99.css.map",
-    "main.5c4fae21.js.map": "/behiyeerdemir/static/js/main.5c4fae21.js.map",
+    "main.fbcec0bc.css.map": "/behiyeerdemir/static/css/main.fbcec0bc.css.map",
+    "main.fae6eb6c.js.map": "/behiyeerdemir/static/js/main.fae6eb6c.js.map",
     "787.963a02f4.chunk.js.map": "/behiyeerdemir/static/js/787.963a02f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf872c99.css",
-    "static/js/main.5c4fae21.js"
+    "static/css/main.fbcec0bc.css",
+    "static/js/main.fae6eb6c.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/behiyeerdemir/static/css/main.a4c60629.css",
-    "main.js": "/behiyeerdemir/static/js/main.45d386da.js",
+    "main.css": "/behiyeerdemir/static/css/main.61a3d9c7.css",
+    "main.js": "/behiyeerdemir/static/js/main.cbd240e3.js",
     "static/js/787.963a02f4.chunk.js": "/behiyeerdemir/static/js/787.963a02f4.chunk.js",
     "static/media/img03.png": "/behiyeerdemir/static/media/img03.3314edfdd89372ccce15.png",
     "static/media/img04.png": "/behiyeerdemir/static/media/img04.a10c928ee89d1286cf64.png",
@@ -105,12 +105,12 @@
     "static/media/csm_5.Untitled__Passport_Hologram___c__Emma_Silvana_Tripaldi_9a934935f9.webp": "/behiyeerdemir/static/media/csm_5.Untitled__Passport_Hologram___c__Emma_Silvana_Tripaldi_9a934935f9.2a4c385eb4906e548c79.webp",
     "static/media/csm_6.Transposition_I__c__Emma_Silvana_Tripaldi_968a93ac27.webp": "/behiyeerdemir/static/media/csm_6.Transposition_I__c__Emma_Silvana_Tripaldi_968a93ac27.15f9446a48e36a45caae.webp",
     "index.html": "/behiyeerdemir/index.html",
-    "main.a4c60629.css.map": "/behiyeerdemir/static/css/main.a4c60629.css.map",
-    "main.45d386da.js.map": "/behiyeerdemir/static/js/main.45d386da.js.map",
+    "main.61a3d9c7.css.map": "/behiyeerdemir/static/css/main.61a3d9c7.css.map",
+    "main.cbd240e3.js.map": "/behiyeerdemir/static/js/main.cbd240e3.js.map",
     "787.963a02f4.chunk.js.map": "/behiyeerdemir/static/js/787.963a02f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4c60629.css",
-    "static/js/main.45d386da.js"
+    "static/css/main.61a3d9c7.css",
+    "static/js/main.cbd240e3.js"
   ]
 }

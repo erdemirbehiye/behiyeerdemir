@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/behiyeerdemir/static/css/main.61a3d9c7.css",
-    "main.js": "/behiyeerdemir/static/js/main.6c747870.js",
+    "main.js": "/behiyeerdemir/static/js/main.6cd5d9df.js",
     "static/js/787.963a02f4.chunk.js": "/behiyeerdemir/static/js/787.963a02f4.chunk.js",
     "static/media/03.png": "/behiyeerdemir/static/media/03.a10c928ee89d1286cf64.png",
     "static/media/05.png": "/behiyeerdemir/static/media/05.c68b8ff4df903f4a05db.png",
@@ -103,11 +103,11 @@
     "static/media/csm_6.Transposition_I__c__Emma_Silvana_Tripaldi_968a93ac27.webp": "/behiyeerdemir/static/media/csm_6.Transposition_I__c__Emma_Silvana_Tripaldi_968a93ac27.15f9446a48e36a45caae.webp",
     "index.html": "/behiyeerdemir/index.html",
     "main.61a3d9c7.css.map": "/behiyeerdemir/static/css/main.61a3d9c7.css.map",
-    "main.6c747870.js.map": "/behiyeerdemir/static/js/main.6c747870.js.map",
+    "main.6cd5d9df.js.map": "/behiyeerdemir/static/js/main.6cd5d9df.js.map",
     "787.963a02f4.chunk.js.map": "/behiyeerdemir/static/js/787.963a02f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61a3d9c7.css",
-    "static/js/main.6c747870.js"
+    "static/js/main.6cd5d9df.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/behiyeerdemir/static/css/main.61a3d9c7.css",
-    "main.js": "/behiyeerdemir/static/js/main.5791c2c3.js",
+    "main.js": "/behiyeerdemir/static/js/main.909e4e34.js",
     "static/js/787.963a02f4.chunk.js": "/behiyeerdemir/static/js/787.963a02f4.chunk.js",
     "static/media/03.png": "/behiyeerdemir/static/media/03.f0b784ef0c80dd2550ce.png",
     "static/media/05.png": "/behiyeerdemir/static/media/05.c68b8ff4df903f4a05db.png",
@@ -29,8 +29,8 @@
     "static/media/08.jpg": "/behiyeerdemir/static/media/08.fe478aacaa3296ff19dd.jpg",
     "static/media/09.jpg": "/behiyeerdemir/static/media/09.f178fc83d1de1d5b0dce.jpg",
     "static/media/01.jpg": "/behiyeerdemir/static/media/01.9efef623db8f36f6c8fa.jpg",
+    "static/media/01.png": "/behiyeerdemir/static/media/01.e76921ccfaf64b012233.png",
     "static/media/03.jpg": "/behiyeerdemir/static/media/03.644f0e5aadd39fd03d44.jpg",
-    "static/media/01.png": "/behiyeerdemir/static/media/01.b31ab7ad5beea24827f8.png",
     "static/media/20.jpg": "/behiyeerdemir/static/media/20.27fed7dd7fbe9abb37d1.jpg",
     "static/media/DALL·E 2024-03-31 20.53.23 - Create an image of an advertisement for an environmentally conscious airline service. The ad features a sleek, modern airplane flying over a pristine .png": "/behiyeerdemir/static/media/DALL·E 2024-03-31 20.53.23 - Create an image of an advertisement for an environmentally conscious airline service. The ad features a sleek, modern airplane flying over a pristine .872040a3b944a2072030.png",
     "static/media/4.png": "/behiyeerdemir/static/media/4.9e7ffd3f75ed5a797ccb.png",
@@ -99,11 +99,11 @@
     "static/media/csm_6.Transposition_I__c__Emma_Silvana_Tripaldi_968a93ac27.webp": "/behiyeerdemir/static/media/csm_6.Transposition_I__c__Emma_Silvana_Tripaldi_968a93ac27.15f9446a48e36a45caae.webp",
     "index.html": "/behiyeerdemir/index.html",
     "main.61a3d9c7.css.map": "/behiyeerdemir/static/css/main.61a3d9c7.css.map",
-    "main.5791c2c3.js.map": "/behiyeerdemir/static/js/main.5791c2c3.js.map",
+    "main.909e4e34.js.map": "/behiyeerdemir/static/js/main.909e4e34.js.map",
     "787.963a02f4.chunk.js.map": "/behiyeerdemir/static/js/787.963a02f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61a3d9c7.css",
-    "static/js/main.5791c2c3.js"
+    "static/js/main.909e4e34.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/behiyeerdemir/static/css/main.61a3d9c7.css",
-    "main.js": "/behiyeerdemir/static/js/main.909e4e34.js",
+    "main.js": "/behiyeerdemir/static/js/main.bf712575.js",
     "static/js/787.963a02f4.chunk.js": "/behiyeerdemir/static/js/787.963a02f4.chunk.js",
     "static/media/03.png": "/behiyeerdemir/static/media/03.f0b784ef0c80dd2550ce.png",
     "static/media/05.png": "/behiyeerdemir/static/media/05.c68b8ff4df903f4a05db.png",
@@ -24,6 +24,7 @@
     "static/media/06.jpg": "/behiyeerdemir/static/media/06.8fe0e187840293a466c6.jpg",
     "static/media/07.jpg": "/behiyeerdemir/static/media/07.75c3175aff540ba4b811.jpg",
     "static/media/8-op4.jpg": "/behiyeerdemir/static/media/8-op4.a6cd92b5a8e30a5b90e9.jpg",
+    "static/media/3.jpg": "/behiyeerdemir/static/media/3.e0ddf1e285c1ad47a8f4.jpg",
     "static/media/04.jpg": "/behiyeerdemir/static/media/04.9a559318b0ac0e99b68a.jpg",
     "static/media/02.jpg": "/behiyeerdemir/static/media/02.fd27192ab6cb8f889df4.jpg",
     "static/media/08.jpg": "/behiyeerdemir/static/media/08.fe478aacaa3296ff19dd.jpg",
@@ -46,10 +47,9 @@
     "static/media/39.png": "/behiyeerdemir/static/media/39.5aa0bc0d3d243ceed212.png",
     "static/media/Prime Prove4_RGB.png": "/behiyeerdemir/static/media/Prime Prove4_RGB.9093d1bad7f124e6e651.png",
     "static/media/Poster 2_4.png": "/behiyeerdemir/static/media/Poster 2_4.181b4fd0ae8f5ff06f5c.png",
-    "static/media/1.png": "/behiyeerdemir/static/media/1.53137a38c8404f327409.png",
+    "static/media/1.png": "/behiyeerdemir/static/media/1.bea4f075acd2cb284a04.png",
     "static/media/6.jpg": "/behiyeerdemir/static/media/6.874d551393a035b6c44d.jpg",
-    "static/media/3.jpg": "/behiyeerdemir/static/media/3.e0ddf1e285c1ad47a8f4.jpg",
-    "static/media/2.png": "/behiyeerdemir/static/media/2.c212777c3f9531e9459b.png",
+    "static/media/2.png": "/behiyeerdemir/static/media/2.2b0bb36ad7901fa2c354.png",
     "static/media/5.jpg": "/behiyeerdemir/static/media/5.e09435f6e60e26dd87f5.jpg",
     "static/media/7.jpg": "/behiyeerdemir/static/media/7.3afd4d55fcf45b1a1078.jpg",
     "static/media/2.jpg": "/behiyeerdemir/static/media/2.f3e28e855f36401a6916.jpg",
@@ -70,20 +70,11 @@
     "static/media/datasetinbetween.jpg": "/behiyeerdemir/static/media/datasetinbetween.57de82d3db4fa42f4794.jpg",
     "static/media/26.jpg": "/behiyeerdemir/static/media/26.822dcdb17710e935cf9b.jpg",
     "static/media/7.png": "/behiyeerdemir/static/media/7.3b20a2e13c8328836610.png",
-    "static/media/1714621933210.png": "/behiyeerdemir/static/media/1714621933210.dbbc0f09be97ad707ac3.png",
-    "static/media/1714621933100.png": "/behiyeerdemir/static/media/1714621933100.bd79ac4621c145713638.png",
-    "static/media/1714621933565.png": "/behiyeerdemir/static/media/1714621933565.bf2153959e2fc1a56b7a.png",
-    "static/media/1714621933388.png": "/behiyeerdemir/static/media/1714621933388.33a32fc89ac9ee9bbbe8.png",
     "static/media/31.jpg": "/behiyeerdemir/static/media/31.c58a8eb8a7be3b1857a5.jpg",
-    "static/media/1714621933503.png": "/behiyeerdemir/static/media/1714621933503.d9b7bc5cb7698fe89d1b.png",
     "static/media/36.png": "/behiyeerdemir/static/media/36.505a1045e604863a90dc.png",
-    "static/media/40.png": "/behiyeerdemir/static/media/40.0dffb3854b64fc41152d.png",
-    "static/media/34.png": "/behiyeerdemir/static/media/34.bea4f075acd2cb284a04.png",
     "static/media/28.jpg": "/behiyeerdemir/static/media/28.6e76fefe750acee5b667.jpg",
-    "static/media/1713127494071.png": "/behiyeerdemir/static/media/1713127494071.474fdd3e2fd651035f34.png",
     "static/media/32.jpg": "/behiyeerdemir/static/media/32.395d5ddba2169a8e4d2d.jpg",
     "static/media/DALL·E 2024-03-27 22.42.18 - Create an image of a generic glass soda bottle placed in a lush green meadow, implying a natural and eco-friendly theme. The bottle should have no bra.png": "/behiyeerdemir/static/media/DALL·E 2024-03-27 22.42.18 - Create an image of a generic glass soda bottle placed in a lush green meadow, implying a natural and eco-friendly theme. The bottle should have no bra.5f8d5b5429708d08e6ed.png",
-    "static/media/25.png": "/behiyeerdemir/static/media/25.2b0bb36ad7901fa2c354.png",
     "static/media/25.jpg": "/behiyeerdemir/static/media/25.29ce75305db31ecbebc6.jpg",
     "static/media/27.jpg": "/behiyeerdemir/static/media/27.fd37505030df166aa8da.jpg",
     "static/media/underwater-lillies-image.png": "/behiyeerdemir/static/media/underwater-lillies-image.bb73c4bb76eb1c79834f.png",
@@ -99,11 +90,11 @@
     "static/media/csm_6.Transposition_I__c__Emma_Silvana_Tripaldi_968a93ac27.webp": "/behiyeerdemir/static/media/csm_6.Transposition_I__c__Emma_Silvana_Tripaldi_968a93ac27.15f9446a48e36a45caae.webp",
     "index.html": "/behiyeerdemir/index.html",
     "main.61a3d9c7.css.map": "/behiyeerdemir/static/css/main.61a3d9c7.css.map",
-    "main.909e4e34.js.map": "/behiyeerdemir/static/js/main.909e4e34.js.map",
+    "main.bf712575.js.map": "/behiyeerdemir/static/js/main.bf712575.js.map",
     "787.963a02f4.chunk.js.map": "/behiyeerdemir/static/js/787.963a02f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61a3d9c7.css",
-    "static/js/main.909e4e34.js"
+    "static/js/main.bf712575.js"
   ]
 }

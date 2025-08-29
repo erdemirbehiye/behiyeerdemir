@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.61a3d9c7.css",
-    "main.js": "./static/js/main.547e52a3.js",
+    "main.js": "./static/js/main.a673dc48.js",
     "static/js/787.963a02f4.chunk.js": "./static/js/787.963a02f4.chunk.js",
     "static/media/03.png": "./static/media/03.f0b784ef0c80dd2550ce.png",
     "static/media/05.png": "./static/media/05.c68b8ff4df903f4a05db.png",
@@ -35,14 +35,20 @@
     "static/media/03.jpg": "./static/media/03.f88c06e1cd467db2f135.jpg",
     "static/media/20.jpg": "./static/media/20.27fed7dd7fbe9abb37d1.jpg",
     "static/media/ic.jpg": "./static/media/ic.51ff7b5ad2f8ce94c389.jpg",
+    "static/media/54379947865_ac6e087169_o.jpg": "./static/media/54379947865_ac6e087169_o.4bf91d896d1d18e64ef6.jpg",
     "static/media/IMG_6739.jpg": "./static/media/IMG_6739.52b6bd7168ce92d1b2ba.jpg",
     "static/media/speculum.jpg": "./static/media/speculum.38cfb75d2085e03418ce.jpg",
     "static/media/IMG_6737.jpg": "./static/media/IMG_6737.a6b188f236c3553716e3.jpg",
+    "static/media/54379793243_fb85259cb5_o.jpg": "./static/media/54379793243_fb85259cb5_o.866496ce315bea8e2d7d.jpg",
     "static/media/DALL·E 2024-03-31 20.53.23 - Create an image of an advertisement for an environmentally conscious airline service. The ad features a sleek, modern airplane flying over a pristine .png": "./static/media/DALL·E 2024-03-31 20.53.23 - Create an image of an advertisement for an environmentally conscious airline service. The ad features a sleek, modern airplane flying over a pristine .872040a3b944a2072030.png",
+    "static/media/54379793238_3f5c700e69_o.jpg": "./static/media/54379793238_3f5c700e69_o.10041eb9da3f0e164e86.jpg",
+    "static/media/54378680437_d0dbe9c5f1_o.jpg": "./static/media/54378680437_d0dbe9c5f1_o.1f6ad910258fdc48da9d.jpg",
+    "static/media/54379757464_15e7bd8876_o.jpg": "./static/media/54379757464_15e7bd8876_o.4cdaf8270e25530d2d98.jpg",
     "static/media/4.png": "./static/media/4.9e7ffd3f75ed5a797ccb.png",
     "static/media/3.png": "./static/media/3.fd6d067ac281eaf92df7.png",
     "static/media/21.png": "./static/media/21.19cf7bd01cedb2bf6f62.png",
     "static/media/DALL·E 2024-03-31 20.18.15 - Create an image of a vibrant pink garment with a green eco-friendly clothing tag attached. The tag is clearly visible and includes sustainable fashion.png": "./static/media/DALL·E 2024-03-31 20.18.15 - Create an image of a vibrant pink garment with a green eco-friendly clothing tag attached. The tag is clearly visible and includes sustainable fashion.3ffcac67f082dc57b041.png",
+    "static/media/54379793233_44ae23e4b6_o.jpg": "./static/media/54379793233_44ae23e4b6_o.0b215548ce748db86ec7.jpg",
     "static/media/35.png": "./static/media/35.2193d90a27fbdb3c3480.png",
     "static/media/38.png": "./static/media/38.70fa57c11f2a9dbdd19e.png",
     "static/media/mail.gif": "./static/media/mail.b53d062339cf1f133763.gif",
@@ -103,11 +109,11 @@
     "static/media/csm_6.Transposition_I__c__Emma_Silvana_Tripaldi_968a93ac27.webp": "./static/media/csm_6.Transposition_I__c__Emma_Silvana_Tripaldi_968a93ac27.15f9446a48e36a45caae.webp",
     "index.html": "./index.html",
     "main.61a3d9c7.css.map": "./static/css/main.61a3d9c7.css.map",
-    "main.547e52a3.js.map": "./static/js/main.547e52a3.js.map",
+    "main.a673dc48.js.map": "./static/js/main.a673dc48.js.map",
     "787.963a02f4.chunk.js.map": "./static/js/787.963a02f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61a3d9c7.css",
-    "static/js/main.547e52a3.js"
+    "static/js/main.a673dc48.js"
   ]
 }
